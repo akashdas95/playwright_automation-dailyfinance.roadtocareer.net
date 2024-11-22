@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Joy",
+    "lastName": "Wolf",
+    "email": "Carissa@gmail.com",
+    "password": "123456",
+    "phoneNumber": "01234567892",
+    "address": "Eleanorafort"
+  },
+  {
+    "firstName": "Delaney",
+    "lastName": "Yundt",
+    "email": "Clementina@gmail.com",
+    "password": "123456",
+    "phoneNumber": "01234567892",
+    "address": "Powlowskiland"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "McKenzie",
+    "email": "Elyssa@gmail.com",
+    "password": "123456",
+    "phoneNumber": "01234567892",
+    "address": "Boehmville"
+  }
+]
