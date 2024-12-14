@@ -1,6 +1,7 @@
 import {test} from '@playwright/test';
 import LoginPage from '../pages/LoginPage';
 import DashboardPage from '../pages/DashboardPage';
+import {readFromJsonFile} from '../utils/utils';
 
 test("search and delete user in admin panel", async({page})=>{
     await page.goto("/");

@@ -22,5 +22,29 @@
     "password": "123456",
     "phoneNumber": "01234567892",
     "address": "Boehmville"
+  },
+  {
+    "firstName": "Edmund",
+    "lastName": "Bednar",
+    "email": "Sage@gmail.com",
+    "password": "123456",
+    "phoneNumber": "01234567892",
+    "address": "Irondequoit"
+  },
+  {
+    "firstName": "Miles",
+    "lastName": "Moore-Gusikowski",
+    "email": "Dariana@gmail.com",
+    "password": "123456",
+    "phoneNumber": "01234567892",
+    "address": "Ernestinashire"
+  },
+  {
+    "firstName": "Ara",
+    "lastName": "Stamm",
+    "email": "Aida@gmail.com",
+    "password": "123456",
+    "phoneNumber": "01234567892",
+    "address": "New Kirk"
   }
 ]
